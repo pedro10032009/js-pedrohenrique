@@ -1,1 +1,15 @@
-<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está marcado com <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
+### Boas vindas ao meu perfil :blue_heart
+
+Meu nome é Pedro Henrique
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+00001117563042sp@al.educacao.sp.gov.br
+
+
+
+![descrição do GIF](https://tenor.com/pt-BR/view/hasbulla-hasbullah-hasbik-trending-viral-gif-21821710)
